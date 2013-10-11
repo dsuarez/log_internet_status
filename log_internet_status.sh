@@ -11,5 +11,5 @@ do
 		INTERNETON="ERROR"
 	fi
 	sleep 1
-	echo $DATE $INTERNETON
+	echo $DATE;$INTERNETON
 done
